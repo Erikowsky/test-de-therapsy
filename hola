@@ -1,0 +1,6 @@
+echo "# test-de-therapsy" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Erikowsky/test-de-therapsy.git
+git push -u origin master
